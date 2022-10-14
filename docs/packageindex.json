@@ -1,0 +1,28 @@
+{
+  "packages": [
+    {
+      "name": "TomEldon_PkgIndex",
+      "maintainer": "TomEldon",
+      "websiteURL": "https://www.tomeldon.com/",
+      "email": "tom@tomeldon.com",
+      "help": {
+        "online": "https://www.tomeldon.com/support/"
+      },
+      "tools": [
+        {
+          "name": "elfdfuuploader",
+          "version": "1.0-elfdfuuploader",
+          "systems": [
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "url": "https://tom1422.github.io/package-index/elfdfuuploader_v1.0.0.zip",
+              "archiveFileName": "elfdfuuploader_v1.0.0.zip",
+              "checksum": "SHA-256:aaaa",
+              "size": "23"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
