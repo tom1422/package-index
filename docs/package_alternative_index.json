@@ -1,88 +1,89 @@
 {
-	"packages": [{
-		"name": "MattairTech_Arduino2",
-		"maintainer": "https://tom1422.github.io/package-index/",
-		"websiteURL": "https://tom1422.github.io/package-index/",
-		"email": "test@tomeldon.com",
-		"help": {
-			"online": "https://tom1422.github.io/package-index/"
-		},
-		"platforms": [{
-			"name": "[USBDFU] MattairTech SAM D|L|C core for Arduino - Beta build",
-			"architecture": "samd",
-			"version": "1.6.19",
-			"category": "Contributed",
-			"help": {
-				"online": "https://tom1422.github.io/package-index/"
-			},
-			"url": "https://tom1422.github.io/package-index/elfdfuuploader_v1.0.0.zip",
-			"archiveFileName": "elfdfuuploader_v1.0.0.zip",
-			"checksum": "SHA-256:45096f7d85db3beac0c2f25e4f9ef9294a59b7e88876d7440d89ac5d0b8f8788",
-			"size": "14532",
-			"boards": [{
-					"name": "Xeno_Mini"
-				},
-				{
-					"name": "Xeno"
-				},
-				{
-					"name": "MT-D21E"
-				},
-				{
-					"name": "MT-D21E_revB"
-				},
-				{
-					"name": "MT-D11"
-				},
-				{
-					"name": "Generic_D11C14A"
-				},
-				{
-					"name": "Generic_D11D14AS"
-				},
-				{
-					"name": "arduino_zero"
-				},
-				{
-					"name": "arduino_mzero"
-				}
-			],
-			"toolsDependencies": [{
-					"packager": "arduino",
-					"name": "arm-none-eabi-gcc",
-					"version": "4.8.3-2014q1"
-				},
-				{
-					"packager": "MattairTech_Arduino",
-					"name": "bossac",
-					"version": "1.7.0-mattairtech-3"
-				},
-				{
-					"packager": "arduino",
-					"name": "openocd",
-					"version": "0.9.0-arduino"
-				},
-				{
-					"packager": "arduino",
-					"name": "CMSIS",
-					"version": "4.5.0"
-				},
-				{
-					"packager": "MattairTech_Arduino",
-					"name": "CMSIS-Atmel",
-					"version": "1.0.0-mattairtech-2"
-				},
-				{
-					"packager": "arduino",
-					"name": "arduinoOTA",
-					"version": "1.2.0"
-				},
-				{
-					"packager": "TomEldon_PkgIndex",
-					"name": "elfdfuuploader",
-					"version": "1.0-elfdfuuploader"
-				}
-			]
-		}]
-	}]
+  "packages": [
+    {
+      "name": "MattairTech_Arduino2",
+      "maintainer": "https://tom1422.github.io/package-index/",
+      "websiteURL": "https://tom1422.github.io/package-index/",
+      "email": "test@tomeldon.com",
+      "platforms": [
+        {
+          "name": "[USBDFU] MattairTech SAM D|L|C core for Arduino - Beta build",
+          "architecture": "samd",
+          "version": "1.6.19",
+          "category": "Contributed",
+          "url": "https://www.mattairtech.com/software/arduino/beta/MattairTech_SAM_DLC_Core_for_Arduino-1.6.18-beta-b1.tar.bz2",
+          "archiveFileName": "MattairTech_SAM_DLC_Core_for_Arduino-1.6.18-beta-b1.tar.bz2",
+          "checksum": "SHA-256:209bb126510af5ba8cc55221ca8f23c110809016671c76057250ad19b4f73136",
+          "size": "405804",
+          "boards": [
+            {
+              "name": "Xeno_Mini"
+            },
+            {
+              "name": "Xeno"
+            },
+            {
+              "name": "MT-D21E"
+            },
+            {
+              "name": "MT-D21E_revB"
+            },
+            {
+              "name": "MT-D11"
+            },
+            {
+              "name": "Generic_D11C14A"
+            },
+            {
+              "name": "Generic_D11D14AS"
+            },
+            {
+              "name": "arduino_zero"
+            },
+            {
+              "name": "arduino_mzero"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            },
+            {
+              "packager": "MattairTech_Arduino",
+              "name": "bossac",
+              "version": "1.7.0-mattairtech-3"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.9.0-arduino"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "MattairTech_Arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.0.0-mattairtech-2"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.2.0"
+            },
+            {
+              "packager": "TomEldon_PkgIndex",
+              "name": "elfdfuuploader",
+              "version": "1.0-elfdfuuploader"
+            }
+          ]
+        }
+      ],
+      "tools": []
+    }
+  ]
 }
