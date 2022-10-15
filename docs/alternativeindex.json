@@ -15,10 +15,10 @@
 			"help": {
 				"online": "https://tom1422.github.io/package-index/"
 			},
-			"url": "https://www.mattairtech.com/software/arduino/beta/MattairTech_SAM_DLC_Core_for_Arduino-1.6.18-beta-b1.tar.bz2",
-			"archiveFileName": "MattairTech_SAM_DLC_Core_for_Arduino-1.6.18-beta-b1.tar.bz2",
-			"checksum": "SHA-256:209bb126510af5ba8cc55221ca8f23c110809016671c76057250ad19b4f73136",
-			"size": "405804",
+			"url": "https://tom1422.github.io/package-index/elfdfuuploader_v1.0.0.zip",
+			"archiveFileName": "elfdfuuploader_v1.0.0.zip",
+			"checksum": "SHA-256:45096f7d85db3beac0c2f25e4f9ef9294a59b7e88876d7440d89ac5d0b8f8788",
+			"size": "14532",
 			"boards": [{
 					"name": "Xeno_Mini"
 				},
