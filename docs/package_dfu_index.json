@@ -15,10 +15,24 @@
           "version": "1.0-elfdfuuploader",
           "systems": [
             {
+              "host": "i686-mingw32",
+              "url": "https://tom1422.github.io/package-index/elfdfuuploader_v1.0.0.zip",
+              "archiveFileName": "elfdfuuploader_v1.0.0.zip",
+              "checksum": "SHA-256:da8d50b3361249eaea224a15bb41a8ed8a6afcebf21e810982b2d1ed731b0876",
+              "size": "14532"
+            },
+            {
               "host": "x86_64-pc-linux-gnu",
               "url": "https://tom1422.github.io/package-index/elfdfuuploader_v1.0.0.zip",
               "archiveFileName": "elfdfuuploader_v1.0.0.zip",
-              "checksum": "SHA-256:45096f7d85db3beac0c2f25e4f9ef9294a59b7e88876d7440d89ac5d0b8f8788",
+              "checksum": "SHA-256:da8d50b3361249eaea224a15bb41a8ed8a6afcebf21e810982b2d1ed731b0876",
+              "size": "14532"
+            },
+            {
+              "host": "i686-pc-linux-gnu",
+              "url": "https://tom1422.github.io/package-index/elfdfuuploader_v1.0.0.zip",
+              "archiveFileName": "elfdfuuploader_v1.0.0.zip",
+              "checksum": "SHA-256:da8d50b3361249eaea224a15bb41a8ed8a6afcebf21e810982b2d1ed731b0876",
               "size": "14532"
             }
           ]
