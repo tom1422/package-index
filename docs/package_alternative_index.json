@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "MattairTech_Arduino2",
+      "name": "MattairTech_ArduinoDFU",
       "maintainer": "https://tom1422.github.io/package-index/",
       "websiteURL": "https://tom1422.github.io/package-index/",
       "email": "test@tomeldon.com",
@@ -11,10 +11,10 @@
           "architecture": "samd",
           "version": "1.6.19",
           "category": "Contributed",
-          "url": "https://www.mattairtech.com/software/arduino/beta/MattairTech_SAM_DLC_Core_for_Arduino-1.6.18-beta-b1.tar.bz2",
-          "archiveFileName": "MattairTech_SAM_DLC_Core_for_Arduino-1.6.18-beta-b1.tar.bz2",
-          "checksum": "SHA-256:209bb126510af5ba8cc55221ca8f23c110809016671c76057250ad19b4f73136",
-          "size": "405804",
+          "url": "https://tom1422.github.io/package-index/MattairTech_SAM_DLC_Core_for_Arduino-1.6.19-DFU.zip",
+          "archiveFileName": "MattairTech_SAM_DLC_Core_for_Arduino-1.6.19-DFU.zip",
+          "checksum": "SHA-256:f7d95662583b92a5e9a103553b37c7ec2db82ad7023ed33b9e4710dae3446ee4",
+          "size": "1638950",
           "boards": [
             {
               "name": "Xeno_Mini"
