@@ -8,6 +8,7 @@
       "help": {
         "online": "https://www.tomeldon.com/support/"
       },
+      "platforms":	[],
       "tools": [
         {
           "name": "elfdfuuploader",
